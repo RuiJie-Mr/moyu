@@ -4,7 +4,7 @@
 
 ### 使用步骤
 * 使用Go开发，无需安装依赖
-* Windows下可直接使用提供的可执行文件运行
+* Windows下可直接使用提供的[可执行文件](https://github.com/RuiJie-Mr/moyu/releases)运行
 
 ### 命令介绍
 ```
